@@ -1,3 +1,5 @@
+# GITHUB LINK: https://github.com/imrangitfh/prog2
+
 # Traffic Light
 
 Das ist das Codetemplate für die zweite Übung in Programmierung 2.
